@@ -75,3 +75,19 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 
 ---
 ⭐ If you find this helpful, consider giving it a star!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/thetejascodes/dsa-cpp/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/thetejascodes/dsa-cpp/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/thetejascodes/dsa-cpp/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
