@@ -90,4 +90,16 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thetejascodes/dsa-cpp/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thetejascodes/dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thetejascodes/dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/thetejascodes/dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
