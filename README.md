@@ -102,4 +102,16 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thetejascodes/dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thetejascodes/dsa-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thetejascodes/dsa-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thetejascodes/dsa-cpp/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
