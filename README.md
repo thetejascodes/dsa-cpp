@@ -86,6 +86,7 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thetejascodes/dsa-cpp/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/thetejascodes/dsa-cpp/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
