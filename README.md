@@ -113,6 +113,7 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thetejascodes/dsa-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/thetejascodes/dsa-cpp/tree/master/0011-container-with-most-water) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,9 +126,14 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thetejascodes/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/thetejascodes/dsa-cpp/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thetejascodes/dsa-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/thetejascodes/dsa-cpp/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thetejascodes/dsa-cpp/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
