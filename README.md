@@ -89,6 +89,7 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 | [0007-reverse-integer](https://github.com/thetejascodes/dsa-cpp/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thetejascodes/dsa-cpp/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thetejascodes/dsa-cpp/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/thetejascodes/dsa-cpp/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thetejascodes/dsa-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/thetejascodes/dsa-cpp/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/thetejascodes/dsa-cpp/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
@@ -108,6 +110,7 @@ This repository is for personal learning purposes. Feel free to fork and use it 
 | [0008-string-to-integer-atoi](https://github.com/thetejascodes/dsa-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/thetejascodes/dsa-cpp/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/thetejascodes/dsa-cpp/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/thetejascodes/dsa-cpp/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
